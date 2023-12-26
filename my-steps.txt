@@ -1,0 +1,96 @@
+### Step 2A
+/c/Users/jessg
+
+### Step 2B
+cd OneDrive/Desktop/
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/c/Users/jessg/OneDrive/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/c/Users/jessg
+
+### Step 2I
+ AppData/            'My Documents'@                                                                                 Searches/
+'Application Data'@   NTUSER.DAT                                                                                     SendTo@
+ Contacts/            NTUSER.DAT{476ef16e-e8e9-11ed-befa-04bf1bf37bdc}.TM.blf                                       'Start Menu'@
+ Cookies@             NTUSER.DAT{476ef16e-e8e9-11ed-befa-04bf1bf37bdc}.TMContainer00000000000000000001.regtrans-ms   Templates@
+ Documents/           NTUSER.DAT{476ef16e-e8e9-11ed-befa-04bf1bf37bdc}.TMContainer00000000000000000002.regtrans-ms   Videos/
+ Downloads/           NetHood@                                                                                       ntuser.dat.LOG1
+ Favorites/           OneDrive/                                                                                      ntuser.dat.LOG2
+ Links/               PrintHood@                                                                                     ntuser.ini
+'Local Settings'@     Recent@                                                                                        source/
+ Music/              'Saved Games'/                                                                                  unit1-git-practice/
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd OneDrive/Desktop/unit1-git-practice
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
